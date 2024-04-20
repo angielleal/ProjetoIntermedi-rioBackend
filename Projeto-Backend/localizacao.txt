@@ -1,0 +1,111 @@
+{
+  "cep": "88820-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Içara",
+  "uf": "SC",
+  "ibge": "4207007",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8137"
+}
+Dados brutos da API: {
+  "cep": "88820-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Içara",
+  "uf": "SC",
+  "ibge": "4207007",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8137"
+}
+Dados formatados:
+{
+  "CEP" : "88820-000",
+  "Logradouro" : "Dados não disponíveis",
+  "Complemento" : "Dados não disponíveis",
+  "Bairro" : "Dados não disponíveis",
+  "Localidade" : "Içara",
+  "UF" : "SC",
+  "IBGE" : "4207007",
+  "GIA" : "Dados não disponíveis",
+  "DDD" : "48",
+  "SIAFI" : "8137"
+}
+{
+  "cep": "88820-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Içara",
+  "uf": "SC",
+  "ibge": "4207007",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8137"
+}
+Dados brutos da API: {
+  "cep": "88820-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Içara",
+  "uf": "SC",
+  "ibge": "4207007",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8137"
+}
+Dados formatados:
+{
+  "CEP" : "88820-000",
+  "Logradouro" : "Dados não disponíveis",
+  "Complemento" : "Dados não disponíveis",
+  "Bairro" : "Dados não disponíveis",
+  "Localidade" : "Içara",
+  "UF" : "SC",
+  "IBGE" : "4207007",
+  "GIA" : "Dados não disponíveis",
+  "DDD" : "48",
+  "SIAFI" : "8137"
+}
+{
+  "cep": "88820-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Içara",
+  "uf": "SC",
+  "ibge": "4207007",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8137"
+}
+Dados brutos da API: {
+  "cep": "88820-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Içara",
+  "uf": "SC",
+  "ibge": "4207007",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8137"
+}
+Dados formatados:
+{
+  "CEP" : "88820-000",
+  "Logradouro" : "Dados não disponíveis",
+  "Complemento" : "Dados não disponíveis",
+  "Bairro" : "Dados não disponíveis",
+  "Localidade" : "Içara",
+  "UF" : "SC",
+  "IBGE" : "4207007",
+  "GIA" : "Dados não disponíveis",
+  "DDD" : "48",
+  "SIAFI" : "8137"
+}
